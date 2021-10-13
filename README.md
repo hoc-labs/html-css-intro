@@ -33,6 +33,8 @@
 ### Your HTML document should now look like this:
 ![](https://raw.githubusercontent.com/hoc-labs/images/main/html-css-intro-5.png)
 
+# Step 4 - Change the code so that you are using class selectors instead of id selectors.
+
 ## Solution
 ![](https://raw.githubusercontent.com/hoc-labs/images/main/html-css-intro-2.png)
 
