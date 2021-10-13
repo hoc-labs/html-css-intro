@@ -1,0 +1,20 @@
+Meet the Jellies
+Orange Jelly
+Pink Jelly
+Yellow Jelly
+
+Orange Jelly
+images/orange-jellyfish.jpg
+This jelly fish is orange
+
+Pink Jelly
+images/pink-jellyfish.jpg
+This jelly fish is pink
+
+Yellow Jelly
+images/yellow-jellyfish.jpg
+This jelly fish is yellow
+
+More Resources
+https://jellyfish.html
+Jelly Fish Facts
